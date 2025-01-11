@@ -43,7 +43,7 @@ Screens Included:
 Project Files:
 
 	•	Figma Files: Accessible via the provided Figma link.
-	•	Screenshots: Available in the Digital Nomad App.png
+	•	Screenshots: Available in the Digital Nomad App.png file.
 
 Future Enhancements:
 
